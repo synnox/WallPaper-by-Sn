@@ -1,3 +1,34 @@
 {
-    "wallpapers": []
+    "wallpapers": [
+        {
+            "id": "journey-through-fantasy-world",
+            "name": "Journey Through Fantasy World",
+            "image": "wallpapers/journey-through-fantasy-world.3840x2160.mp4"
+        },
+        {
+            "id": "midnight-skyline",
+            "name": "Midnight Skyline",
+            "image": "wallpapers/midnight-skyline.3840x2160.mp4"
+        },
+        {
+            "id": "oni-mask-warrior",
+            "name": "Oni Mask Warrior",
+            "image": "wallpapers/oni-mask-warrior.3840x2160.mp4"
+        },
+        {
+            "id": "rick-and-morty-stargazing",
+            "name": "Rick and Morty Stargazing",
+            "image": "wallpapers/rick-and-morty-stargazing.3840x2160.mp4"
+        },
+        {
+            "id": "serious-girl",
+            "name": "Serious Girl",
+            "image": "wallpapers/serious-girl.3840x2160.mp4"
+        },
+        {
+            "id": "spider-man-at-sunset",
+            "name": "Spider-Man at Sunset",
+            "image": "wallpapers/spider-man-at-sunset.3840x2160.mp4"
+        }
+    ]
 }
