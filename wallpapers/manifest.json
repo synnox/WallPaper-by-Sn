@@ -44,6 +44,11 @@
             "id": "spider-man-at-sunset",
             "name": "Spider-Man at Sunset",
             "image": "wallpapers/spider-man-at-sunset.3840x2160.mp4"
+        },
+        {  
+            "id": "muse-dash",
+            "name": "muse-dash",
+            "image": "wallpapers/muse-dash.1920x1080.mp4"
         }
     ]
 }
