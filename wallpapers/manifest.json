@@ -1,6 +1,21 @@
 {
     "wallpapers": [
         {
+            "id": "blue-eyes-swordswoman",
+            "name": "Blue Eyes Swordswoman",
+            "image": "wallpapers/blue-eyes-swordswoman.3840x2160.mp4"
+        },
+        {
+            "id": "celestial-battle-gojo-vs-mahoraga",
+            "name": "Celestial Battle: Gojo vs Mahoraga",
+            "image": "wallpapers/celestial-battle-gojo-vs-mahoraga.3840x2160.mp4"
+        },
+        {
+            "id": "celestial-veil",
+            "name": "Celestial Veil",
+            "image": "wallpapers/celestial-veil.3840x2160.mp4"
+        },
+        {
             "id": "journey-through-fantasy-world",
             "name": "Journey Through Fantasy World",
             "image": "wallpapers/journey-through-fantasy-world.3840x2160.mp4"
