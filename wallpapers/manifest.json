@@ -45,10 +45,45 @@
             "name": "Spider-Man at Sunset",
             "image": "wallpapers/spider-man-at-sunset.3840x2160.mp4"
         },
-        {  
+        {
             "id": "muse-dash",
             "name": "muse-dash",
             "image": "wallpapers/muse-dash.1920x1080.mp4"
+        },
+        {
+            "id": "void-dark-king",
+            "name": "Void Dark King",
+            "image": "wallpapers/void-dark-king.3840x2160.mp4"
+        },
+        {
+            "id": "menu",
+            "name": "Menu",
+            "image": "wallpapers/Menu.mp4"
+        },
+        {
+            "id": "silver-surfer-black-silence",
+            "name": "Silver Surfer Black Silence",
+            "image": "wallpapers/silver-surfer-black-silence.3840x2160.mp4"
+        },
+        {
+            "id": "crimson-bonsai-minimalist",
+            "name": "Crimson Bonsai Minimalist",
+            "image": "wallpapers/crimson-bonsai-minimalist-moewalls-com.mp4"
+        },
+        {
+            "id": "heart-eye",
+            "name": "Heart Eye",
+            "image": "wallpapers/heart-eye-moewalls-com.mp4"
+        },
+        {
+            "id": "crown-of-midnight",
+            "name": "Crown of Midnight",
+            "image": "wallpapers/crown-of-midnight.3840x2160.mp4"
+        },
+        {
+            "id": "makima-burning-eyes",
+            "name": "Makima Burning Eyes",
+            "image": "wallpapers/makima-burning-eyes.3840x2160.mp4"
         }
     ]
 }
