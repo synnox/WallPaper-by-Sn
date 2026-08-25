@@ -3,82 +3,98 @@
         {
             "id": "blue-eyes-swordswoman",
             "name": "Blue Eyes Swordswoman",
-            "image": "wallpapers/blue-eyes-swordswoman.3840x2160.mp4"
+            "image": "wallpapers/blue-eyes-swordswoman.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/blue-eyes-swordswoman.png"
         },
         {
             "id": "celestial-battle-gojo-vs-mahoraga",
             "name": "Celestial Battle: Gojo vs Mahoraga",
-            "image": "wallpapers/celestial-battle-gojo-vs-mahoraga.3840x2160.mp4"
+            "image": "wallpapers/celestial-battle-gojo-vs-mahoraga.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/celestial-battle-gojo-vs-mahoraga.png"
         },
         {
             "id": "celestial-veil",
             "name": "Celestial Veil",
-            "image": "wallpapers/celestial-veil.3840x2160.mp4"
+            "image": "wallpapers/celestial-veil.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/celestial-veil.png"
         },
         {
             "id": "journey-through-fantasy-world",
             "name": "Journey Through Fantasy World",
-            "image": "wallpapers/journey-through-fantasy-world.3840x2160.mp4"
+            "image": "wallpapers/journey-through-fantasy-world.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/journey-through-fantasy-world.png"
         },
         {
             "id": "midnight-skyline",
             "name": "Midnight Skyline",
-            "image": "wallpapers/midnight-skyline.3840x2160.mp4"
+            "image": "wallpapers/midnight-skyline.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/midnight-skyline.png"
         },
         {
             "id": "oni-mask-warrior",
             "name": "Oni Mask Warrior",
-            "image": "wallpapers/oni-mask-warrior.3840x2160.mp4"
+            "image": "wallpapers/oni-mask-warrior.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/oni-mask-warrior.png"
         },
         {
             "id": "rick-and-morty-stargazing",
             "name": "Rick and Morty Stargazing",
-            "image": "wallpapers/rick-and-morty-stargazing.3840x2160.mp4"
+            "image": "wallpapers/rick-and-morty-stargazing.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/rick-and-morty-stargazing.png"
         },
         {
             "id": "serious-girl",
             "name": "Serious Girl",
-            "image": "wallpapers/serious-girl.3840x2160.mp4"
+            "image": "wallpapers/serious-girl.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/serious-girl.png"
         },
         {
             "id": "spider-man-at-sunset",
             "name": "Spider-Man at Sunset",
-            "image": "wallpapers/spider-man-at-sunset.3840x2160.mp4"
+            "image": "wallpapers/spider-man-at-sunset.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/spider-man-at-sunset.png"
         },
         {
             "id": "muse-dash",
             "name": "muse-dash",
-            "image": "wallpapers/muse-dash.1920x1080.mp4"
+            "image": "wallpapers/muse-dash.1920x1080.mp4",
+            "thumbnail": "wallpapers/thumbs/muse-dash.png"
         },
         {
             "id": "void-dark-king",
             "name": "Void Dark King",
-            "image": "wallpapers/void-dark-king.3840x2160.mp4"
+            "image": "wallpapers/void-dark-king.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/void-dark-king.png"
         },
         {
             "id": "menu",
             "name": "Menu",
-            "image": "wallpapers/Menu.mp4"
+            "image": "wallpapers/Menu.mp4",
+            "thumbnail": "wallpapers/thumbs/menu.png"
         },
         {
             "id": "silver-surfer-black-silence",
             "name": "Silver Surfer Black Silence",
-            "image": "wallpapers/silver-surfer-black-silence.3840x2160.mp4"
+            "image": "wallpapers/silver-surfer-black-silence.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/silver-surfer-black-silence.png"
         },
         {
             "id": "heart-eye",
             "name": "Heart Eye",
-            "image": "wallpapers/heart-eye-moewalls-com.mp4"
+            "image": "wallpapers/heart-eye-moewalls-com.mp4",
+            "thumbnail": "wallpapers/thumbs/heart-eye.png"
         },
         {
             "id": "crown-of-midnight",
             "name": "Crown of Midnight",
-            "image": "wallpapers/crown-of-midnight.3840x2160.mp4"
+            "image": "wallpapers/crown-of-midnight.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/crown-of-midnight.png"
         },
         {
             "id": "makima-burning-eyes",
             "name": "Makima Burning Eyes",
-            "image": "wallpapers/makima-burning-eyes.3840x2160.mp4"
+            "image": "wallpapers/makima-burning-eyes.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/makima-burning-eyes.png"
         }
     ]
 }
