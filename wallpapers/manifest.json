@@ -95,6 +95,48 @@
             "name": "Makima Burning Eyes",
             "image": "wallpapers/makima-burning-eyes.3840x2160.mp4",
             "thumbnail": "wallpapers/thumbs/makima-burning-eyes.png"
+        },
+        {
+            "id": "ayanami-rei-beneath-blue-light",
+            "name": "Ayanami Rei Beneath Blue Light",
+            "image": "wallpapers/ayanami-rei-beneath-blue-light.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/ayanami-rei-beneath-blue-ligh.png"
+        },
+        {
+            "id": "ekko-and-powder-arcane",
+            "name": "Ekko and Powder (Arcane)",
+            "image": "wallpapers/ekko-and-powder-arcane.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/ekko-and-powder-arcane.png"
+        },
+        {
+            "id": "frieren-blooming-stream",
+            "name": "Frieren Blooming Stream",
+            "image": "wallpapers/frieren-blooming-stream.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/frieren-blooming-stream,png.png"
+        },
+        {
+            "id": "girl-behind-curtains-3",
+            "name": "Girl Behind Curtains 3",
+            "image": "wallpapers/girl-behind-curtains-3.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/girl-behind-curtains.png"
+        },
+        {
+            "id": "rainy-valley",
+            "name": "Rainy Valley",
+            "image": "wallpapers/rainy-valley.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/rainy-valley.png"
+        },
+        {
+            "id": "warwick-dark-experiment",
+            "name": "Warwick Dark Experiment",
+            "image": "wallpapers/warwick-dark-experiment.3840x2160.mp4",
+            "thumbnail": "wallpapers/thumbs/warwick-dark-experiment.png"
+        },
+        {
+            "id": "prana-system-error",
+            "name": "Prana System Error",
+            "image": "wallpapers/prana-system-error.1920x1080.mp4",
+            "thumbnail": "wallpapers/thumbs/prana-system-error.png"
         }
     ]
 }
