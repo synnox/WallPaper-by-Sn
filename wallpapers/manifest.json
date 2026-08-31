@@ -1,7 +1,6 @@
-import json
-
-manifest = {
-    "wallpapers": [
+{ "wallpapers": [ 
+    {
+       "wallpapers": [
         {
             "id": "blue-eyes-swordswoman",
             "name": "Blue Eyes Swordswoman",
