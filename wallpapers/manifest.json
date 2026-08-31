@@ -1,4 +1,6 @@
-{
+import json
+
+manifest = {
     "wallpapers": [
         {
             "id": "blue-eyes-swordswoman",
@@ -137,6 +139,80 @@
             "name": "Prana System Error",
             "image": "wallpapers/prana-system-error.1920x1080.mp4",
             "thumbnail": "wallpapers/thumbs/prana-system-error.png"
+        },
+        {
+            "id": "beautiful-anime-girl-under-starry-sky-live-wallpaper",
+            "name": "Beautiful Anime Girl Under Starry Sky",
+            "image": "wallpapers/beautiful-anime-girl-under-starry-sky-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/beautiful-anime-girl-under-starry-sky-live-wallpaper.png"
+        },
+        {
+            "id": "but-why-frozen-journey-live-wallpaper",
+            "name": "But Why Frozen Journey",
+            "image": "wallpapers/but-why-frozen-journey-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/but-why-frozen-journey-live-wallpaper.png"
+        },
+        {
+            "id": "cosmic-black-hole-space-live-wallpaper",
+            "name": "Cosmic Black Hole Space",
+            "image": "wallpapers/cosmic-black-hole-space-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/cosmic-black-hole-space-live-wallpaper.png"
+        },
+        {
+            "id": "ford-gt-gloomy-live-wallpaper",
+            "name": "Ford GT Gloomy",
+            "image": "wallpapers/ford-gt-gloomy-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/ford-gt-gloomy-live-wallpaper.png"
+        },
+        {
+            "id": "gojo-drinking-monster-jjk-live-wallpaper",
+            "name": "Gojo Drinking Monster (JJK)",
+            "image": "wallpapers/gojo-drinking-monster-jjk-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/gojo-drinking-monster-jjk-live-wallpaper.png"
+        },
+        {
+            "id": "minecraft-aurora-night-cabin-live-wallpaper",
+            "name": "Minecraft Aurora Night Cabin",
+            "image": "wallpapers/minecraft-aurora-night-cabin-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/minecraft-aurora-night-cabin-live-wallpaper.png"
+        },
+        {
+            "id": "rainy-torii-shrine-path-live-wallpaper",
+            "name": "Rainy Torii Shrine Path",
+            "image": "wallpapers/rainy-torii-shrine-path-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/rainy-torii-shrine-path-live-wallpaper.png"
+        },
+        {
+            "id": "retro-sunset-pixel-car-live-wallpaper",
+            "name": "Retro Sunset Pixel Car",
+            "image": "wallpapers/retro-sunset-pixel-car-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/retro-sunset-pixel-car-live-wallpaper.png"
+        },
+        {
+            "id": "super-mario-pixel-room-live-wallpaper",
+            "name": "Super Mario Pixel Room",
+            "image": "wallpapers/super-mario-pixel-room-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/super-mario-pixel-room-live-wallpaper.png"
+        },
+        {
+            "id": "zero-two-x-toyota-gr-86-live-wallpaper",
+            "name": "Zero Two x Toyota GR-86",
+            "image": "wallpapers/zero-two-x-toyota-gr-86-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/zero-two-x-toyota-gr-86-live-wallpaper.png"
+        },
+        {
+            "id": "lone-explorer-on-alien-planet-live-wallpaper",
+            "name": "Lone Explorer on Alien Planet",
+            "image": "wallpapers/lone-explorer-on-alien-planet-live-wallpaper.mp4",
+            "thumbnail": "wallpapers/thumbs/lone-explorer-on-alien-planet-live-wallpaper.png"
         }
     ]
 }
+
+path = "/mnt/data/manifest.json"
+with open(path, "w", encoding="utf-8") as f:
+    json.dump(manifest, f, ensure_ascii=False, indent=4)
+    f.write("\n")
+
+print(f"Manifest créé avec {len(manifest['wallpapers'])} wallpapers.")
+print("11 nouveaux wallpapers ajoutés.")
