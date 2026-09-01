@@ -38,6 +38,12 @@
             "thumbnail": "wallpapers/thumbs/oni-mask-warrior.png"
         },
         {
+            "id": "Sn Hub",
+            "name": "Sn Hub",
+            "image": "wallpapers/Sn-Hub.mp4",
+            "thumbnail": "wallpapers/thumbs/Sn-Hub.png"
+        },
+        {
             "id": "rick-and-morty-stargazing",
             "name": "Rick and Morty Stargazing",
             "image": "wallpapers/rick-and-morty-stargazing.3840x2160.mp4",
