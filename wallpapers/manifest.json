@@ -1,6 +1,5 @@
-{ "wallpapers": [ 
-    {
-       "wallpapers": [
+{
+    "wallpapers": [
         {
             "id": "blue-eyes-swordswoman",
             "name": "Blue Eyes Swordswoman",
@@ -210,14 +209,42 @@
             "name": "Lone Explorer on Alien Planet",
             "image": "wallpapers/lone-explorer-on-alien-planet-live-wallpaper.mp4",
             "thumbnail": "wallpapers/thumbs/lone-explorer-on-alien-planet-live-wallpaper.png"
+        },
+        {
+            "id": "anime-girl-sword-reflection",
+            "name": "Anime Girl Sword Reflection",
+            "image": "wallpapers/anime-girl-sword-reflection.mp4",
+            "thumbnail": "wallpapers/thumbs/anime-girl-sword-reflection.png"
+        },
+        {
+            "id": "beautiful-anime-girl-under-starry-sky-2",
+            "name": "Beautiful Anime Girl Under Starry Sky",
+            "image": "wallpapers/beautiful-anime-girl-under-starry-sky.mp4",
+            "thumbnail": "wallpapers/thumbs/beautiful-anime-girl-under-starry-sky.png"
+        },
+        {
+            "id": "bmw-m4-lb-works-night-drive",
+            "name": "BMW M4 LB Works Night Drive",
+            "image": "wallpapers/bmw-m4-lb-works-night-drive.mp4",
+            "thumbnail": "wallpapers/thumbs/bmw-m4-lb-works-night-drive.png"
+        },
+        {
+            "id": "cyber-slayer-schoolgirl-pink-anime-power",
+            "name": "Cyber Slayer Schoolgirl Pink Anime Power",
+            "image": "wallpapers/cyber-slayer-schoolgirl-pink-anime-power.mp4",
+            "thumbnail": "wallpapers/thumbs/cyber-slayer-schoolgirl-pink-anime-power.png"
+        },
+        {
+            "id": "girl-relaxing-on-mercedes-benz-230e",
+            "name": "Girl Relaxing on Mercedes-Benz 230E",
+            "image": "wallpapers/girl-relaxing-on-mercedes-benz-230e.mp4",
+            "thumbnail": "wallpapers/thumbs/girl-relaxing-on-mercedes-benz-230e.png"
+        },
+        {
+            "id": "minecraft-aurora-night",
+            "name": "Minecraft Aurora Night",
+            "image": "wallpapers/minecraft-aurora-night.mp4",
+            "thumbnail": "wallpapers/thumbs/minecraft-aurora-night.png"
         }
     ]
 }
-
-path = "/mnt/data/manifest.json"
-with open(path, "w", encoding="utf-8") as f:
-    json.dump(manifest, f, ensure_ascii=False, indent=4)
-    f.write("\n")
-
-print(f"Manifest créé avec {len(manifest['wallpapers'])} wallpapers.")
-print("11 nouveaux wallpapers ajoutés.")
